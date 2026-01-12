@@ -10,7 +10,7 @@ tableRows:
       - "One hot encoding"
       - "BoW (frequency counting)"
       - "TF-IDF"
-    Quizzes: "Quiz 0 | Knowledge-based | out 1/12 - due 1/16"
+    Quizzes: "Quiz 0 | Knowledge-based topics | out 1/12 - due 1/16"
     Readings:
       - "Chapter 1 Introduction to Natural Language Processing by Jacob Eisenstein"
       - "Chapter 2.1 Introduction to Natural Language Processing by Jacob Eisenstein"  
@@ -25,7 +25,7 @@ tableRows:
       - "Classification Introduction"
       - "Naive Bayes"
       - "Classification Model Evaluation: accuracy, precision, recall, confusion matrix"
-    Quizzes: "Quiz 1 | week 1| out 1/16 - due 1/23"
+    Quizzes: "Quiz 1 | week 1 topics | out 1/16 - due 1/23"
     Readings:
       - "Chapter 2.2 Introduction to Natural Language Processing by Jacob Eisenstein"  
 
@@ -36,7 +36,7 @@ tableRows:
       - "Logistic Regression"
       - "SVM"
       - "Perceptron"
-    Quizzes: "Quiz 2 | week 2| out 1/23 - due 1/30"
+    Quizzes: "Quiz 2 | week 2 topics | out 1/23 - due 1/30"
     Readings:
       - "Chapters 2.3, 2.4, 2.5 Introduction to Natural Language Processing by Jacob Eisenstein."
     Homework:
@@ -49,7 +49,7 @@ tableRows:
     Topics:
       - SVD (Dimensionality Reduction) + Co-occurrence embeddings
       - Glove
-    Quizzes: "Quiz 3 | week 3| out 1/30 - due 2/06"
+    Quizzes: "Quiz 3 | week 3 topics | out 1/30 - due 2/06"
     Readings:
       - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
 
@@ -69,7 +69,7 @@ tableRows:
       - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
       - "[More detailed introduction](/other/nn-intro.pdf);"
       - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
-    Quizzes: "Quiz 4 | week 4| out 2/06 - due 2/13"
+    Quizzes: "Quiz 4 | week 4 topics | out 2/06 - due 2/13"
 
 
 
@@ -80,7 +80,7 @@ tableRows:
       - "CNN"
       - "RNN"
       - "Toolbox on CNN For Text Classification"
-    Quizzes: "Quiz 5 | week 5| out 2/13 - due 2/20"
+    Quizzes: "Quiz 5 | week 5 topics | out 2/13 - due 2/20"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://medium.com/data-science/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -97,14 +97,14 @@ tableRows:
     Topics:
       - "LSTM and GRU"
       - "LSTM + Attention (Focus on Attention mechanism)"
-    Quizzes: "Quiz 6 | week 6| out 2/20 - due 2/27"
+    Quizzes: "Quiz 6 | week 6 topics | out 2/20 - due 2/27"
 
   - 8:
     Week: 8
     Dates: "3/02 - 3/06"
     Topics:
       - "Focus on HW3"
-    Quizzes: "Quiz 7 | week 7| out 2/27 - due 3/06"
+    Quizzes: "Quiz 7 | week 7 topics | out 2/27 - due 3/06"
 
   - 9:
     Week: 9
@@ -125,7 +125,7 @@ tableRows:
     Topics:
       - "Sequence Labelling: POS Tagging"
       - "Sequence Labelling: NER "
-    Quizzes: "Quiz 8 | week 9| out 3/13 - due 3/20"
+    Quizzes: "Quiz 8 | week 9 topics | out 3/13 - due 3/20"
     
   - 11:
     Week: 11
@@ -144,7 +144,7 @@ tableRows:
     Homework:
       - "**HW4 due 4/03**"
       - "HW5 out 4/03"
-    Quizzes: "Quiz 9 | week 10 | out 3/20 - due 4/03"
+    Quizzes: "Quiz 9 | week 10 topics | out 3/20 - due 4/03"
     
   - 13:
     Week: 13
@@ -154,7 +154,7 @@ tableRows:
       - "Prompt Engineering Techniques"
       - "Retrieval Augmented Generation (RAG)"
       - "Toolbox on Exploring LLMs"
-    Quizzes: "Quiz 10 | week 12 | out 4/03 - due 4/10"
+    Quizzes: "Quiz 10 | week 12 topics | out 4/03 - due 4/10"
 
 
   - 14:
@@ -165,7 +165,7 @@ tableRows:
       - Architectures and Reasoning in Agentic AI
       - Multi-Agent and Real World Systems
 
-    Quizzes: "Quiz 11 | week 13 | out 4/10 - due 4/17"
+    Quizzes: "Quiz 11 | week 13 topics | out 4/10 - due 4/17"
 
 
   - 15:
@@ -176,7 +176,7 @@ tableRows:
     Homework:
       - "**HW5 due 04/24**"
       - "**Note:** You may submit HW5 without penalty until 04/28"
-
+    Quizzes: "Quiz 12 | week 14 topics | out 4/17 - due 4/24"
 
 
 

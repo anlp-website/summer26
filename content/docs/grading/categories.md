@@ -25,7 +25,7 @@ We do not release solutions for homework. Some of our assignments will have bonu
 
 ## Proctored Coding Sessions (5%)
 
-We will have 2 to 3 short proctored coding sessions using Vocareum and Honorlock that will extend upon some questions from the homework assignments. You will have an hour to complete each of these sessions, but the questions are designed to take less than the full hour. The goal of this exercise is to provide you with an opportunity to apply your understanding of concepts learned to problems without relying on external tools like generative AI or looking up answers online. It is not meant to test your speed or advanced coding ability. 
+We will have 3 short proctored coding sessions using Vocareum and Honorlock that will extend upon some questions from the homework assignments. You will have an hour to complete each of these sessions, but the questions are designed to take less than the full hour. The goal of this exercise is to provide you with an opportunity to apply your understanding of concepts learned to problems without relying on external tools like generative AI or looking up answers online. It is not meant to test your speed or advanced coding ability. 
  
 Each assignment must be completed in one sitting. Honorlock will monitor your screen, video, and restrict the allowed resources. We will provide a sample assignment for you to get acclimated to the Vocareum + Honorlock environment/allowed resources. 
  
@@ -33,9 +33,10 @@ We will release these Vocareum + Honorlock assignments in conjunction with the r
 
 ## Quizzes (15%)
 
-There will be 11 graded quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
-- We will drop the lowest quiz grade so that 10 quizzes count towards your grade. Each quiz will have 1.5% of your final score.
-- If you fail to take a quiz, you will be penalized by losing 3% of your course score instead of 1.5%. As taking all quizzes is mandatory.
+There will be 12 graded quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
+- We will drop the lowest quiz grade so that 11 quizzes count towards your grade. 
+- Each quiz will be worth 5 points and taking all quizzes is mandatory.
+- If you fail to take a quiz, you will receive a <strong>grade of -5 out of 5 for the missed quiz</strong> (rather than 0 out of 5) as <strong> additional penalty</strong>. A missed quiz grade may count as the dropped lowest quiz grade.
 - The topic of each quiz will coincide with the contents covered in lectures on the specified weeks. Make sure to watch and study any materials for each week module, i.e. vidoes, tutorial videos, pdfs,etc.
 - Quizzes will have a duration of <strong> seven-minutes </strong> for students. Each quiz will have five multiple choice questions. Check the course schedule table for when quizzes will be out and due. Any possible changes on quizzes dates will be reflected on our course schdule page. Please make sure to check our class website before taking the quiz.
 - Quizzes measure your understanding of the topics and they will be mostly conceptual questions.
