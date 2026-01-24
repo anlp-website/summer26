@@ -132,7 +132,6 @@ tableRows:
     Dates: "3/23 - 3/27"
     Topics:
       - Spring Break
-      - Focus on HW 4
 
 
   - 12:
@@ -172,11 +171,19 @@ tableRows:
     Week: 15
     Dates: "4/20 - 4/24"
     Topics:
-      - "Focus on HW 5"
+      - "Toolbox on Agentic AI"
     Homework:
       - "**HW5 due 04/24**"
+    Quizzes: "Quiz 12 | weeks 14 & 15 topics | out 4/17 - due 4/24"
+
+  - 16:
+    Week: 16
+    Dates: "4/27 - 4/28"
+    Topics:
+      - "Course and Homework Wrap-Up"
+    Homework:
       - "**Note:** You may submit HW5 without penalty until 04/28"
-    Quizzes: "Quiz 12 | week 14 topics | out 4/17 - due 4/24"
+
 
 
 
