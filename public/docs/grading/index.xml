@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grading on Class Homepage</title>
+    <link>/docs/grading/</link>
+    <description>Recent content in Grading on Class Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/docs/grading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories</title>
+      <link>/docs/grading/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/grading/categories/</guid>
+      <description>Categories # Assignments (80%) # We have 5 big assignments in total (subject to change). Visit this course&amp;rsquo;s Canvas and Gradescope site for the assignment documents. See the course schedule for deliverable due dates.
+[10%] HW1: Week 1 to Week 2 topics [15%] HW2: Week 3 to Week 4 topics [20%] HW3: Week 5 to Week 6 topics [20%] HW4: Week 7 to Week 11 topics [15%] HW5: Week 12 to Week 13 topics We do not release solutions for homework.</description>
+    </item>
+    
+  </channel>
+</rss>
