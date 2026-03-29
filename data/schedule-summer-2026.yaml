@@ -135,9 +135,9 @@ tableRows:
     Week: 10
     Dates: "7/20 - 7/24"
     Topics:
-      - Foundations of Agentic AI
-      - Architectures and Reasoning in Agentic AI
-      - Multi-Agent and Real World Systems
+      - "Foundations of Agentic AI"
+      - "Architectures and Reasoning in Agentic AI"
+      - "Multi-Agent and Real World Systems"
       - "Toolbox on Agentic AI"
     Quizzes: "Quizzes 10 & 11 | weeks 10 & 11| out 7/21 - due 7/24"
 
@@ -145,8 +145,8 @@ tableRows:
     Week: 11
     Dates: "7/27 - 7/28"
     Topics:
-      - Course and Homework Wrap-Up
-    Quizzes: "Quiz 12 | weeks 10 & 11 topics | out 7/24 - due 7/28" ( **Note:** You may submit Quiz 12 without penalty until **7/31** )"
+      - "Course and Homework Wrap-Up"
+    Quizzes: "Quiz 12 | weeks 10 & 11 topics | out 7/24 - due 7/28 ( **Note:** You may submit Quiz 12 without penalty until **7/31** )"
     Homework:
       - "**HW5 due 7/28**"
       - " **Note:** You may submit HW5 without penalty until **7/31** "
