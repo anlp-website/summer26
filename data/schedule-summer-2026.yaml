@@ -36,9 +36,13 @@ tableRows:
       - "Logistic Regression"
       - "SVM"
       - "Perceptron"
+      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
+      - Glove
     Quizzes: "Quiz 2 | week 2| out 5/29 - due 6/05"
     Readings:
+      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
       - "Chapters 2.3, 2.4, 2.5 Introduction to Natural Language Processing by Jacob Eisenstein."
+
     Homework:
       - "**HW1 due 6/05**"
       - "HW2 out 6/05"
@@ -47,15 +51,12 @@ tableRows:
     Week: 4
     Dates: "6/08 - 6/12"
     Topics:
-      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
-      - Glove
       - "Neural Network (fully connected)"
       - "Word2vec: CBoW, Skip-Gram"
       - "Toolbox on Classification Algorithms"
       - "Toolbox on Word2Vec"
-    Quizzes: "Quiz 3 | week 3| out 6/05 - due 6/09 | Quiz 4 | week 4| out 6/09 - due 6/12"
+    Quizzes: "Quizzes 3&4 | weeks 3&4| out 6/05 - due 6/12"
     Readings:
-      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
       - "[The role of a hidden layer](https://www.quora.com/What-is-the-role-of-a-hidden-layer);"
@@ -79,6 +80,7 @@ tableRows:
       - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
     Homework:
       - "**HW2 due 6/19**"
+      - " **Note:** You may submit HW2 without penalty until **6/23** "
       - "HW3 out 6/19"
 
   - 6:
@@ -114,7 +116,6 @@ tableRows:
       - "Sequence Labelling: NER"
       - "Unsupervised Models"
       - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
-      - "Toolbox on Exploring LLMs"
     Quizzes: "Quiz 8 | week 8| out 7/03 - due 7/10"
 
   - 9:
@@ -124,6 +125,7 @@ tableRows:
       - "Introduction to Generative AI"
       - "Prompt Engineering Techniques"
       - "Retrieval Augmented Generation (RAG)"
+      - "Toolbox on Exploring LLMs"
     Quizzes: "Quiz 9 | week 9| out 7/10 - due 7/17"
     Homework:
       - "**HW4 due 7/17**"
@@ -137,13 +139,14 @@ tableRows:
       - Architectures and Reasoning in Agentic AI
       - Multi-Agent and Real World Systems
       - "Toolbox on Agentic AI"
-    Quizzes: "Quiz 10 | week 10| out 7/17 - due 7/21 | Quiz 11 | weeks 10 & 11| out 7/21 - due 7/24"
+    Quizzes: "Quizzes 10 & 11 | weeks 10 & 11| out 7/21 - due 7/24"
 
   - 11:
     Week: 11
     Dates: "7/27 - 7/28"
     Topics:
       - "Course and Homework Wrap-Up"
-    Quizzes: "Quiz 12 | weeks 10 & 11 topics | out 7/24 - due 7/28"
+    Quizzes: "Quiz 12 | weeks 10 & 11 topics | out 7/24 - due 7/28" ( **Note:** You may submit Quiz 12 without penalty until **7/31** )"
     Homework:
       - "**HW5 due 7/28**"
+      - " **Note:** You may submit HW5 without penalty until **7/31** "
