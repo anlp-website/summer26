@@ -23,13 +23,9 @@ We do not release solutions for homework. Some of our assignments will have bonu
 **Can you release homework early?** We understand that some students may prefer that homework assignments be released as soon as possible. Behind the scenes, our course staff work diligently to develop new questions, which means testing new datasets, new instructions, new auto graders, solution code, and more! Unfortunately, this means we likely cannot release assignments well in advance. We will release them as early as possible, hopefully some days before the scheduled release dates on our course schedule. When we release an assignment, we always announce it on Ed discussion.
 {{< /hint >}}
 
-## Proctored Coding Sessions (5%)
+## Homework Assessments (5%)
 
-We will have 3 short proctored coding sessions using Vocareum and Honorlock that will extend upon some questions from the homework assignments. You will have an hour to complete each of these sessions, but the questions are designed to take less than the full hour. The goal of this exercise is to provide you with an opportunity to apply your understanding of concepts learned to problems without relying on external tools like generative AI or looking up answers online. It is not meant to test your speed or advanced coding ability. 
- 
-Each assignment must be completed in one sitting. Honorlock will monitor your screen, video, and restrict the allowed resources. We will provide a sample assignment for you to get acclimated to the Vocareum + Honorlock environment/allowed resources. 
- 
-We will release these Vocareum + Honorlock assignments in conjunction with the relevant homework assignment and they will be due at the same time as the homework assignment. We will, however, provide a 2 day grace period over the weekend for this proctored coding session.
+We will have 3 homework assessments on Canvas to test your understanding of the homework concepts and your implementation. These quizzes will be proctored using Honorlock and will be closed book and closed notes. More information to be shared.
 
 ## Quizzes (15%)
 
@@ -42,7 +38,7 @@ There will be 12 graded quizzes throughout the semester on <strong>Canvas</stron
 - Quizzes measure your understanding of the topics and they will be mostly conceptual questions.
 - Quizzes' answers will be released as soon as all our students took them including our ODS students. Please do not ask any questions about a quiz that you just take on Edstem before we release the answers.
 - Quizzes questions are selected randomly from our question bank, which means that students will not receive the same questions for their quiz.
-- Honorlock will be used for all quizzes in this course to uphold assessment integrity. Quizzes are open book and open notes, allowing you to use physical paper notes. However, the use of any additional electronic devices, such as phones or iPads, is not permitted. Browser activity will also be restricted to Canvas only.
+- Honorlock will be used for all quizzes in this course to uphold assessment integrity. <strong>Quizzes are closed book and closed notes. </strong>
 
 ## Grading
 - You must achieve an overall weighted average of 60% to pass the course.
