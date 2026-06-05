@@ -6,14 +6,14 @@ title: "Categories"
 
 # Categories
 
-## Assignments (80%)
+## Homework Assignments (80%)
 We have 5 big assignments in total (subject to change). Visit this course's Canvas and Gradescope site for the assignment documents. See the course schedule for deliverable due dates.
 
 - [10%] HW1: Week 1 to Week 2 topics
-- [15%] HW2: Week 3 to Week 4 topics
-- [20%] HW3: Week 5 to Week 6 topics
-- [20%] HW4: Week 7 to Week 11 topics
-- [15%] HW5: Week 12 to Week 13 topics
+- [15%] HW2: Week 3 topics
+- [20%] HW3: Week 4 to Week 5 topics
+- [20%] HW4: Week 6 to Week 8 topics
+- [15%] HW5: Week 9 to Week 10 topics
 
 We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 
@@ -25,11 +25,15 @@ We do not release solutions for homework. Some of our assignments will have bonu
 
 ## Homework Assessments (5%)
 
-We will have 3 homework assessments on Canvas to test your understanding of the homework concepts and your implementation. These quizzes will be proctored using Honorlock and will be closed book and closed notes. More information to be shared.
+We will have 3 homework assessments to test your understanding of the homework concepts and your code implementation. These assessments will take place through Canvas and will be proctored using Honorlock. <strong>All assessments are closed book and closed notes.</strong> 
+ 
+Generally, each assessment will have a duration of 20 minutes. We will release these homework assessments in conjunction with the relevant homework assignments. They will be due at the same time as the homework assignment, however, we will provide a 2-day grace period over the weekend for the assessment.
+ 
+Similar to the quizzes, <strong>each homework assessment is mandatory. Missing a homework assessment will incur an additional penalty</strong> equivalent to the number of points that the assessment is worth. 
 
 ## Quizzes (15%)
 
-There will be 12 graded quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
+There will be 12 graded lecture quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
 - We will drop the lowest quiz grade so that 11 quizzes count towards your grade. 
 - Each quiz will be worth 5 points and taking all quizzes is mandatory.
 - If you fail to take a quiz, you will receive a <strong>grade of -5 out of 5 for the missed quiz</strong> (rather than 0 out of 5) as <strong> additional penalty</strong>. A missed quiz grade may count as the dropped lowest quiz grade.
